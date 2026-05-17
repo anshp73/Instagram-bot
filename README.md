@@ -66,6 +66,4 @@ The project typically uses:
 ## ⚠️ Disclaimer
 This project is for **educational purposes only**. Automating actions on Instagram may violate Instagram’s Terms of Service. Use responsibly and at your own risk.
 
----
 
-Would you like me to also generate a **sample `requirements.txt` file** with pinned versions (e.g., `selenium==4.x`, `webdriver-manager==3.x`) so users can install dependencies without compatibility issues?
